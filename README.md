@@ -1,5 +1,4 @@
-👋 Hi, I’m Stan
-- I'm studying Electrical Engineering at Stanford University, and I'm interested in hardware/software applications and VLSI.
+👋 Hi, I’m Stan. I'm studying Electrical Engineering at Stanford University.
 
 <!---
 stanminlee/stanminlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
